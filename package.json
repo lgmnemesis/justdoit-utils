@@ -1,0 +1,23 @@
+{
+  "name": "justdoit-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgmnemesis/justdoit-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgmnemesis/justdoit-utils/issues"
+  },
+  "homepage": "https://github.com/lgmnemesis/justdoit-utils#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2"
+  }
+}
